@@ -6,7 +6,7 @@
 
 <br>
 
-Eskişehir'de Ön-Yüz Yazılım Geliştirme alanında eğitim gören ve kurumsal standartlarda kod yazmayı hedefleyen bir geliştirici adayıyım. Kullanıcı dostu, modern ve duyarlı (responsive) web arayüzleri tasarlamaktan keyif alıyor; aynı zamanda veritabanı mimarileri (SQL) üzerinde çalışarak projelere bütüncül bir bakış açısıyla yaklaşmaya odaklanıyorum.
+Eskişehir'de Anadolu Üniversitesinde Ön-Yüz Yazılım Geliştirme ön lisans programında eğitim gören ve kurumsal standartlarda kod yazmayı hedefleyen bir geliştirici adayıyım. Kullanıcı dostu, modern ve duyarlı (responsive) web arayüzleri tasarlamaktan keyif alıyor; aynı zamanda veritabanı mimarileri (SQL) üzerinde çalışarak projelere bütüncül bir bakış açısıyla yaklaşmaya odaklanıyorum.
 
 ---
 
