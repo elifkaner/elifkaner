@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150" />
   
-  <h1><img src="https://media.giphy.com/media/hvRJCLFzcasr14yMyj/giphy.gif" width="35"> Selam, Ben [Senin Adın]!</h1>
+  <h1><img src="https://media.giphy.com/media/hvRJCLFzcasr14yMyj/giphy.gif" width="35"> Selam, Ben Elif Kaner!</h1>
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=26&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=🚀+Front-End+Geliştirici;💡+Sürekli+Öğrenen;💻+SQL+%26+Veritabanı+Tutkunu" alt="Typing SVG" />
