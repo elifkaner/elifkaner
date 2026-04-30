@@ -1,7 +1,7 @@
 <h1 align="center">Merhaba, Ben Elif Kaner! </h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Front-End+Gelistirici;Modern+Web+Teknolojileri;Responsive+Tasarim" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Frontend+Geliştirici" alt="Typing SVG" />
 </div>
 
 <br>
@@ -13,7 +13,7 @@ Eskişehir'de Ön-Yüz Yazılım Geliştirme alanında eğitim gören ve kurumsa
 ### 💻 Teknik Yetkinlikler
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,sql,csharp,arduino,git,vscode,github,figma&theme=dark" alt="Teknolojiler" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,mysql,cs,arduino,git,vscode,github,figma&theme=dark" alt="Teknolojiler" />
 </p>
 
 ### 📊 GitHub İstatistikleri
