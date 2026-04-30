@@ -13,7 +13,7 @@ Eskişehir'de Ön-Yüz Yazılım Geliştirme alanında eğitim gören ve kurumsa
 ### 💻 Teknik Yetkinlikler
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,py,mssql,vscode,github,figma&theme=dark" alt="Teknolojiler" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,py,mysql,vscode,github" alt="Teknolojiler" />
 </p>
 
 ### 📊 GitHub İstatistikleri
