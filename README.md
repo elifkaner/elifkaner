@@ -1,7 +1,7 @@
 <h1 align="center">Merhaba, Ben Elif Kaner ! </h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Junior+Front-end+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Junior+Front-End+Developer" alt="Typing SVG" />
 </div>
 
 <br>
