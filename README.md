@@ -1,7 +1,7 @@
 <h1 align="center">Merhaba, Ben Elif Kaner! </h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Frontend+Geliştirici" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Front-End%20Gelistirici;Modern%20Web%20Teknolojileri;Responsive%20Tasarim" alt="Typing SVG" />
 </div>
 
 <br>
