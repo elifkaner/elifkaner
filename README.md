@@ -1,35 +1,51 @@
-# Merhaba, Ben Elif Kaner! 
+<div align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150" />
+  
+  <h1><img src="https://media.giphy.com/media/hvRJCLFzcasr14yMyj/giphy.gif" width="35"> Selam, Ben [Senin Adın]!</h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F0FF&width=435&lines=Ön-Yüz+(Front-End)+Geliştirici;Sürekli+Öğrenen;UI%2FUX+Tutkunu" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=26&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=🚀+Front-End+Geliştirici;💡+Sürekli+Öğrenen;💻+SQL+%26+Veritabanı+Tutkunu" alt="Typing SVG" />
+  </a>
+</div>
 
-Eskişehir'de Ön-Yüz Yazılım Geliştirme öğrencisiyim. Modern web teknolojileri (HTML5, CSS3, JS) ile duyarlı (responsive) tasarımlar üretiyor ve arka planda veritabanı (SQL) mantığını kurgulamaktan keyif alıyorum.
+<br>
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.png" width="80%">
+</div>
 
-### 🛠️ Kullandığım Teknolojiler ve Araçlar
-
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
-</p>
-
----
-
-### 📊 GitHub İstatistiklerim
+### ⚡ Teknoloji Cephaneliğim
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=elifkaner&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,sql,git,vscode,github,figma&theme=dark" />
+  </a>
 </p>
 
----
+<br>
 
-### 🌐 Benimle İletişime Geç
+### 🏆 GitHub Başarılarım
 
-<p align="left">
-  <a href="https://linkedin.com/in/elifkaner"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:elifkanerx@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=elifkaner&theme=synthwave&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="Trophy" />
+  </a>
+</p>
+
+### 🌌 Synthwave İstatistiklerim
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=elifkaner&show_icons=true&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elifkaner&layout=compact&theme=synthwave&hide_border=true" alt="Top Languages" />
+</p>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.png" width="80%">
+</div>
+
+### 🚀 Siber Uzayda Bana Ulaşın
+
+<p align="center">
+  <a href="https://linkedin.com/in/elifkaner"><img src="https://img.shields.io/badge/LinkedIn-00FFFF?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" /></a>
+  <a href="mailto:elifkanerx@gmail.com"><img src="https://img.shields.io/badge/E_Posta-FF00FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
