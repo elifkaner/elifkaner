@@ -1,9 +1,7 @@
-<h1 align="center">Merhaba, Ben Elif Kaner </h1>
+<h1 align="center">Merhaba, Ben</h1>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Ön-Yüz+(Front-End)+Geliştirici;Modern+Web+Teknolojileri;Responsive+Tasarım+Odaklı" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Front-End+Gelistirici;Modern+Web+Teknolojileri;Responsive+Tasarim" alt="Typing SVG" />
 </div>
 
 <br>
@@ -21,17 +19,17 @@ Eskişehir'de Ön-Yüz Yazılım Geliştirme alanında eğitim gören ve kurumsa
 ### 📊 GitHub İstatistikleri
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=elifkaner&show_icons=true&theme=github_dark_dimmed&hide_border=true" alt="GitHub İstatistikleri" height="160"/>
-  <img src="https://streak-stats.demolab.com/?user=elifkaner&theme=github_dark_dimmed&hide_border=true" alt="GitHub Commit Serisi" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SENIN_GITHUB_KULLANICI_ADIN&show_icons=true&theme=github_dark_dimmed&hide_border=true" alt="GitHub İstatistikleri" height="160"/>
+  <img src="https://streak-stats.demolab.com/?user=SENIN_GITHUB_KULLANICI_ADIN&theme=github_dark_dimmed&hide_border=true" alt="GitHub Commit Serisi" height="160"/>
 </p>
 
 ### 🌐 İletişim ve Bağlantılar
 
 <p align="left">
-  <a href="https://linkedin.com/in/elifkaner">
+  <a href="https://linkedin.com/in/SENIN_LINKEDIN_UZANTIN">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:elifkanerx@gmail.com">
+  <a href="mailto:senin.email@adresin.com">
     <img src="https://img.shields.io/badge/E_Posta-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
