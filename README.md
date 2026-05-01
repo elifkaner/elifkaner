@@ -19,12 +19,12 @@ Eskişehir'de Anadolu Üniversitesinde Ön-Yüz Yazılım Geliştirme ön lisans
 ### 📊 GitHub İstatistikleri
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=elifkaner&show_icons=true&theme=github_dark_dimmed&hide_border=true" alt="GitHub İstatistikleri" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elifkaner&layout=compact&theme=github_dark_dimmed&hide_border=true" alt="En Çok Kullanılan Diller" height="160"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=SENIN_KULLANICI_ADIN&show_icons=true&theme=dark&bg_color=0D1117&border_color=FF69B4" alt="GitHub İstatistikleri" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SENIN_KULLANICI_ADIN&layout=compact&theme=dark&bg_color=0D1117&border_color=FF69B4" alt="En Çok Kullanılan Diller" />
 </p>
 
 ### 🌐 İletişim ve Bağlantılar
 
 <p align="left">
-  <a href="https://linkedin.com/in/elifkaner"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;&nbsp;<a href="mailto:senin.email@adresin.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/elifkaner"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;&nbsp;<a href="mailto:elifkanerx@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
