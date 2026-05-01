@@ -17,9 +17,9 @@ Eskişehir'de Anadolu Üniversitesinde Ön-Yüz Yazılım Geliştirme ön lisans
 </p>
 
  <h2 align="center"> Github İstatistikleri </h2>
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elifkaner&theme=radium&hide_border=true" alt="GitHub Streak" />
-
+<p align="center">
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=elifkaner&theme=radium&hide_border=true" alt="GitHub Streak" />
+</p>
 
  <h2 align="center"> İletişim ve Bağlantılar </h2>
 
