@@ -13,7 +13,7 @@ Eskişehir'de Anadolu Üniversitesinde Ön-Yüz Yazılım Geliştirme ön lisans
  <h2 align="center"> Teknik Yetkinlikler </h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,py,mysql,vscode,github" alt="Teknolojiler" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,py,mysql,github" alt="Teknolojiler" />
 </p>
 
  <h2 align="center"> Github İstatistikleri </h2>
