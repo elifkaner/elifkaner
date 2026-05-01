@@ -10,18 +10,18 @@ Eskişehir'de Anadolu Üniversitesinde Ön-Yüz Yazılım Geliştirme ön lisans
 
 ---
 
- <h2 align="center">💻 Teknik Yetkinlikler </h2>
+ <h2 align="center"> Teknik Yetkinlikler </h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,py,mysql,vscode,github" alt="Teknolojiler" />
 </p>
 
-### 📊 GitHub İstatistikleri
+ <h2 align="center"> Github İstatistikleri </h2>
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elifkaner&theme=radium&hide_border=true" alt="GitHub Streak" />
 
 
-### 🌐 İletişim ve Bağlantılar
+ <h2 align="center"> İletişim ve Bağlantılar </h2>
 
 <p align="center">
   <a href="https://linkedin.com/in/elifkaner"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;&nbsp;<a href="mailto:elifkanerx@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
